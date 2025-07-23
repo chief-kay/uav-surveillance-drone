@@ -1,0 +1,9 @@
+numpy
+scipy
+opencv-python
+tensorflow
+flask
+pandas
+matplotlib
+scikit-learn
+requests
